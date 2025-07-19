@@ -27,3 +27,9 @@ In the final load step, the transformed dataset was split into training and test
 From a learning standpoint, this project offered deep insights into designing reusable data workflows and pipelines. It reinforced the importance of clean data preparation before modeling, helped me develop confidence in handling both numerical and categorical data, and taught me how to debug and resolve real-world errors that occur when working with pipeline components. The use of EDA also helped me discover important feature relationships — particularly the dominant influence of smoking on insurance costs — which are relevant for real-world decision-making in healthcare and insurance industries.
 
 This project is especially useful for anyone who wants to build predictive models related to cost estimation, medical billing, insurance planning, or health analytics. The pipeline structure is flexible and can be adapted for other structured datasets in different industries. By the end of the project, I gained practical skills in modular pipeline design, data transformation logic, and automated preprocessing — all critical components in the data science lifecycle
+
+#OUTPUT
+
+<img width="1008" height="683" alt="Image" src="https://github.com/user-attachments/assets/3b3c3abd-d7f2-4139-955d-496c461c06d7" />
+
+<img width="990" height="581" alt="Image" src="https://github.com/user-attachments/assets/b29084ac-a3f9-4d0f-ad00-181e0f717406" />
