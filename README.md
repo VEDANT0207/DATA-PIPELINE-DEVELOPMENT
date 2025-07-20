@@ -12,6 +12,9 @@
 
 *MENTOR* : NEELA SANTOSH
 
+# Project Title: ETL Pipeline on Medical Insurance Dataset
+Task Description: Automate the ETL process using Python, Pandas, and Scikit-learn
+
 ##This project involved designing and implementing a complete ETL (Extract, Transform, Load) pipeline using Python on a real-world health dataset. The primary goal was to automate the process of reading raw medical insurance data, cleaning and transforming it through a structured data preprocessing pipeline, and finally exporting the clean, machine learning–ready data. The entire project was developed using the Jupyter Notebook environment, a popular web-based coding interface ideal for data science workflows. All coding was done in Python, leveraging standard libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
 
 The dataset used in this project is the Medical Insurance dataset, which contains health and demographic data for individuals, including age, sex, BMI, number of children, smoking status, region, and annual insurance charges. The column charges serves as the target variable. This dataset was chosen for its rich combination of both numerical and categorical features, as well as its relevance to real-world problems in healthcare cost prediction and insurance analytics. The raw dataset was loaded from an online GitHub link, extracted into a Pandas DataFrame, and saved locally as insurance.csv.
